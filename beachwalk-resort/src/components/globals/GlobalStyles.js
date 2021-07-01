@@ -46,7 +46,7 @@ const Global = createGlobalStyle`
 
     p {
         line-height: 1.5;
-        margin: 0 0 1.5 0;
+        margin: 0 0 1.5rem 0;
     }
 `;
 
